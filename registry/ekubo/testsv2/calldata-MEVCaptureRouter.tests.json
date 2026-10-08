@@ -22,7 +22,7 @@
           { "label": "Pool token 1", "value": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2" },
           { "label": "Specified pool token", "value": "Token 0" },
           { "label": "Specified amount", "value": "1000000" },
-          { "label": "Amount threshold", "value": "1" },
+          { "label": "Amount threshold (min out / −max in, base units)", "value": "1" },
           { "label": "Price limit", "value": "0" },
           { "label": "Skip ahead", "value": "0" },
           { "label": "Pool config", "value": "0x0000000000000000000000000000000000000000000000000000000000000000" }
